@@ -2,3 +2,4 @@ __pycache__/
 tags
 .ropeproject/
 venv3/
+*.mp4
